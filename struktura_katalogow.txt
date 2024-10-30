@@ -1,0 +1,12 @@
+.
+├── backup
+│   └── wynik.txt
+├── Kolokwium
+│   └── wynik.txt
+├── kopia_wynik.txt
+├── README.md
+├── sciezka.txt
+├── struktura_katalogow.txt
+└── zadanie
+
+3 directories, 7 files
